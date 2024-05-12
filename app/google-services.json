@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779517103579",
+    "project_id": "carinsuranceapplication-a0775",
+    "storage_bucket": "carinsuranceapplication-a0775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779517103579:android:89921fce941cc5ac8fabfe",
+        "android_client_info": {
+          "package_name": "com.example.androidinsuranceproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtY9py0U21-bZGOEJ-SrbyF-gkpQ8W9iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779517103579:android:1a4f161ca1eca0fc8fabfe",
+        "android_client_info": {
+          "package_name": "com.example.carinsuranceapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtY9py0U21-bZGOEJ-SrbyF-gkpQ8W9iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
